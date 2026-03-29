@@ -82,7 +82,7 @@ public class PhysicsObjectManipulator : MonoBehaviour
         if (consoleLog) Debug.Log("Applying Force to Object: " + gameObject.name);
     }
 
-    // Code added to allow changing ForceToAdd from the inspector
+    // Allow for changing ForceToAdd from Unity inspector
     public void SetForceToAdd(Vector3 newForce)
     {
         forceToAdd = newForce;
