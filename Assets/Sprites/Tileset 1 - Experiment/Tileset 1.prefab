@@ -1292,7 +1292,7 @@ GameObject:
   - component: {fileID: 4739340869876263537}
   - component: {fileID: 1617436178313520014}
   m_Layer: 0
-  m_Name: ArtIntegrationExperiment
+  m_Name: Tileset 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
