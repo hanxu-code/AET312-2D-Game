@@ -3653,11 +3653,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4531612659806939438, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 173
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4531612659806939438, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -25.9
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4531612659806939438, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6079,6 +6079,10 @@ PrefabInstance:
     - target: {fileID: 2299209119116114128, guid: b8c656a2f2e16420ab45bd763ab24cc0, type: 3}
       propertyPath: m_UseAutoMass
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299209119116114128, guid: b8c656a2f2e16420ab45bd763ab24cc0, type: 3}
+      propertyPath: m_LinearDamping
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 4280618420886632386, guid: b8c656a2f2e16420ab45bd763ab24cc0, type: 3}
       propertyPath: m_Color.b
